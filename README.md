@@ -5,8 +5,9 @@
 Le routage inter-VLAN est un processus qui permet de transférer du trafic réseau d'un VLAN à un autre à
 l'aide d'un périphérique de couche 3 comme un routeur.
 ```
+## Principe de fonctionnement
 
-Il y’a 3 manières différentes pour faire du routage inter-vlan: 
+### Il y’a 3 manières différentes pour faire du routage inter-vlan: 
 
 * 1 Interface pour 1 vlan<br>
 Par exemple, les pc’s du vlan 10 envoient le trafic via le routeur pour atteindre le vlan 20. <br>
